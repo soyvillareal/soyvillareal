@@ -1,6 +1,10 @@
+<p align="center">
+  <img src="https://i.pinimg.com/originals/cd/59/d6/cd59d626dc86397fe45080e6e9c7027d.gif" width="200"/>
+</p>
 <h1 align="center">Hi, I'm Oscar Garcés <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1>
 <h3 align="center">Computer Engineering Honors Graduate and Passionate Full Stack Developer!!</h3>
-<img src="https://i.pinimg.com/originals/cd/59/d6/cd59d626dc86397fe45080e6e9c7027d.gif" width="270" align="right"/>
+
+                                                                                                                  
 <br>
 
 - :computer: You can see my portfolio at [my website][website].
