@@ -46,17 +46,19 @@
 
 ### Languages ​​and Tools:
 
-<code><img alt="HTML5" height="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></code>
-<code><img alt="AMP" height="50px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/amp-icon.png" /></code>
-<code><img alt="CSS3" height="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></code>
-<code><img alt="JavaScript" height="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></code>
-<code><img alt="JQuery" height="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" /></code>
-<code><img alt="NodeJS" height="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /></code>
-<code><img alt="React" height="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /></code>
-<code><img alt="PHP" height="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" /></code>
-<code><img alt="SQL" height="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /></code>
-<code><img alt="firebase" height="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" /></code>
-<code><img alt="Git" height="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /></code>
+<code><img alt="HTML5" height="50px" src="https://user-images.githubusercontent.com/32948343/205513392-f528686a-edec-405a-bcb3-6389fd15b75b.png" /></code>
+<code><img alt="AMP" height="50px" src="https://user-images.githubusercontent.com/32948343/205513430-c057658c-f4cd-49ba-b505-48f7351f527f.png" /></code>
+<code><img alt="CSS3" height="50px" src="https://user-images.githubusercontent.com/32948343/205513447-83183e6e-24ba-4b00-8f2a-521832ef171c.png" /></code>
+<code><img alt="JavaScript" height="50px" src="https://user-images.githubusercontent.com/32948343/205513456-912a13a5-7aa8-4d66-afbb-22e172575b1b.png" /></code>
+<code><img alt="JQuery" height="50px" src="https://user-images.githubusercontent.com/32948343/205513470-976bbe26-057b-4327-8c0d-d756d9077b36.png" /></code>
+<code><img alt="NodeJS" height="50px" src="https://user-images.githubusercontent.com/32948343/205513484-f7f53967-d24d-45c3-949f-4a0435c25a5f.png" /></code>
+<code><img alt="NPM" height="50px" src="https://user-images.githubusercontent.com/32948343/205513573-4cf5c560-5950-4634-b5e3-0a9a09454b74.png" /></code>
+<code><img alt="ReactJS" height="50px" src="https://user-images.githubusercontent.com/32948343/205513498-4c79368b-959e-476a-ab20-d252e1fba0a7.png" /></code>
+<code><img alt="PHP" height="50px" src="https://user-images.githubusercontent.com/32948343/205513527-b2ff59e0-d132-4246-b395-ff4780674540.png" /></code>
+<code><img alt="Apache" height="50px" src="https://user-images.githubusercontent.com/32948343/205513625-d2e9d956-15e8-43b3-ba93-fd3f7e65d22c.png" /></code>
+<code><img alt="NGINX" height="50px" src="https://user-images.githubusercontent.com/32948343/205513644-79eb7ffa-fb8f-4216-8f1b-aa17c79bf539.png" /></code>
+<code><img alt="MySQL" height="50px" src="https://user-images.githubusercontent.com/32948343/205513539-3fa7fc06-3cce-4fd4-871b-ed9e2524ce63.png" /></code>
+<code><img alt="Git" height="50px" src="https://user-images.githubusercontent.com/32948343/205513659-a45aa52e-7db3-4b60-9a4b-7ff0266832bf.png" /></code>
 
 ----
 
