@@ -12,7 +12,7 @@
 - 🥅 2022 Goals: Create more open source projects and constantly update the ones I have already created.
 - 💫 Always aiming at usability and code performance at all costs.
 - ⚡ Fun fact: I love going to the gym and playing sports.
-- :paperclip: [My Resume/CV](https://soyvillareal.com/curriculum).
+- :paperclip: [My Resume/CV](https://soyvillareal.com/curriculum/soyvillareal).
 
 ### Connect with me:
 
